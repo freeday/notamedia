@@ -1,4 +1,4 @@
-# nota
+# notamedia
 
 ## Project setup
 ```
